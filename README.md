@@ -10,8 +10,6 @@ This code has been updated for Python 3.9. The original version of the code used
 
 - Data collected using the Apple Watch is available on PhysioNet: [link](https://alpha.physionet.org/content/sleep-accel/1.0.0/)
 
-- The MESA dataset is available for download at the [National Sleep Research Resource](https://sleepdata.org). You will have to request access from NSRR for the data.
-
 ## Pre-processing the data
 
 To convert the raw data into features that can be interpreted by the classifiers, you want to run `preprocessing_runner.py.` This script is located in the `source/preprocessing` directory. Here are the steps you need to follow to run that code: 
