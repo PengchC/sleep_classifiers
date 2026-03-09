@@ -1,6 +1,6 @@
 # Sleep Stage Classifier
 
-Machine learning workflow for classifying sleep stages from Apple Watch sensor data (motion and heart rate).
+Machine learning workflow for classifying sleep stages using Apple Watch sensor (motion and heart rate) and polysomnnography data.
 
 ## What Is In This Repository
 
